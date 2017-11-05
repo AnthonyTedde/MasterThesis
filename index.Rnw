@@ -1,0 +1,7 @@
+\documentclass[a4paper]{report}
+\input{config/preambul}
+
+\begin{document}
+first step.
+    \include{}
+\end{document}
